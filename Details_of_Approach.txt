@@ -1,0 +1,10 @@
+1) Performing Data Cleaning using BERT and Regular expressions 
+2) Combining all the text based columns and performing data cleaning for text based corpus such as Tokenization,Stopwords Removal,Lemmatization using NLTK,Spacy tools
+3) Perform TF IDF vectorization and sentence Embedding to generate feature vectors
+4) Using Standard scalar and Vector Assembler to convert independent variables to a single Vector
+5) Perform Linear,Random Forest Regression on the dataset.
+
+Tools Used : PySpark, SK-Learn
+IDE : Google Colab
+
+Features Considered : TITLE,BULLET_POINTS,DESCRIPTION,PRODUCT_TYPE_ID 
